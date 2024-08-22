@@ -1,10 +1,8 @@
-import cls from './MainPage.module.scss'
+import Table from 'components/Table/Table'
 
 const MainPage = () => {
     return (
-        <div>
-            text
-        </div>
+        <Table/>
     )
 }
 
